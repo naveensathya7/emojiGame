@@ -1,0 +1,41 @@
+/* Write your code here. */
+.win-card {
+  border-radius: 5px;
+  background-color: #9796f0;
+  display: flex;
+  color: white;
+  width: 40%;
+  justify-content: space-between;
+  padding: 20px;
+}
+.score-card {
+  text-align: center;
+}
+.heading {
+  font-size: 30px;
+  font-weight: 600;
+}
+.score {
+  color: #6a59ff;
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 0px;
+}
+.playAgain-btn {
+  border-radius: 8px;
+  color: black;
+  background-color: #ffce27;
+  padding: 10px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.desc {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+.img {
+  width: 130px;
+  height: 180px;
+  align-self: center;
+}
